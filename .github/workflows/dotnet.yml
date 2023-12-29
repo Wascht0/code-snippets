@@ -1,4 +1,4 @@
-name: .NET
+name: code-snippets
 
 on:
   push:
